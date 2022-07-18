@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Axel Brunnbauer"
 title_separator          : "-"
 name                     : &name "Axel Brunnbauer"
-description              : &description "personal description"
+description              : &description "I am a PhD candidate at the Cyber Physical Systems Group at TU Vienna. My general research area are intelligent decision making algorithms in multi-agent systems. Particularly, I am working on the intersection of Deep Reinforcement Learning, Algorithmic Game Theory and Robotics."
 url                      : https://axelbr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axelbr/axelbr.github.io"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/axel-brunnbauer-33a50822b/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "axel-brunnbauer-33a50822b"
+  orcid            : "https://orcid.org/0000-0002-8934-7355"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
