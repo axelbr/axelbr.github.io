@@ -1,7 +1,7 @@
 ---
 title: "Paper: Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/icra-2022-latent-imagination
 venue: "International Conference on Robotics and Automation (ICRA)"
 date: 2012-05-25
