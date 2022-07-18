@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Axel Brunnbauer"
 title_separator          : "-"
 name                     : &name "Axel Brunnbauer"
-description              : &description "I am a PhD candidate at the Cyber Physical Systems Group at TU Vienna. My general research area are intelligent decision making algorithms in multi-agent systems. Particularly, I am working on the intersection of Deep Reinforcement Learning, Algorithmic Game Theory and Robotics."
+description              : &description ""
 url                      : https://axelbr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axelbr/axelbr.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Axel Brunnbauer"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a PhD candidate at the Cyber Physical Systems Group at TU Vienna. My general research area are intelligent decision making algorithms in multi-agent systems. Particularly, I am working on the intersection of Deep Reinforcement Learning, Algorithmic Game Theory and Robotics."
   location         : "Vienna, Austria"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _publications
   - scope:
