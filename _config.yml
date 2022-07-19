@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Axel Brunnbauer"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "I am a PhD candidate at the Cyber Physical Systems Group at TU Vienna. I am working at the intersection of Multi-Agent Deep RL, Algorithmic Game Theory and Robotics."
   location         : "Vienna, Austria"
   employer         :
